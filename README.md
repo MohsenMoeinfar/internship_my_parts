@@ -125,7 +125,6 @@ After that, in the ‍‍`testpmd` terminal, just type `start`, and then run `sh
 ![show port stats](images/show_stats.png)
 
 
-Here’s a rephrased version with a different approach:
 
 
 
@@ -218,7 +217,7 @@ To automate the LTTng capture process, you'll need to create a shell script that
 
    * Stops the trace and destroys the session, cleaning up any resources used.
 
-Sure! Here's how you can phrase that:
+
 
 ### Running the Script
 
